@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(129, 155, 224);
+}
+
+h1,h3{
+    text-align: center;
+    margin: 50px;
+}
+
+img{
+    width: 200px;
+    border-radius: 10px;
+    border: solid  royalblue;
+    display: block;
+    margin: auto;
+}
+
+div{
+    margin: 50px;
+}
+
+ul{
+   margin-left: 420px;
+}
+
