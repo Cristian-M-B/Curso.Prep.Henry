@@ -1,25 +1,25 @@
-body{
+body {
     background-color: rgb(129, 155, 224);
 }
 
-h1,h3{
+h1,
+h3 {
     text-align: center;
     margin: 50px;
 }
 
-img{
+img {
     width: 200px;
     border-radius: 10px;
-    border: solid  royalblue;
+    border: solid royalblue;
     display: block;
     margin: auto;
 }
 
-div{
+div {
     margin: 50px;
 }
 
-ul{
-   margin-left: 420px;
+ul {
+    margin-left: 420px;
 }
-
