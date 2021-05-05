@@ -130,6 +130,9 @@ function buscoInterseccion(arreglo1, arreglo2) {
   }
   return array;
 }
+ftffuf
+hviviv
+viviviv
 
 // No modificar nada debajo de esta línea
 // --------------------------------
